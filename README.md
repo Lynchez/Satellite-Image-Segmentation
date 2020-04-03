@@ -19,6 +19,3 @@ In this project, Using Mask R-CNN to image segmentation
 		cd Satellite-Image-Segmentation-master
 	```
 2.  python satellite.py
-
-	```
-  
