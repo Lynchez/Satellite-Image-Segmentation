@@ -13,7 +13,7 @@ In this project, Using Mask R-CNN to image segmentation
 
 ### Instruction
 
-1. Clone the repository and navigage to the downloaded folder.
+1. Clone the repository and navigate to the downloaded folder.
 	```
 		git clone https://github.com/Lynchez/Satellite-Image-Segmentation
 		cd Satellite-Image-Segmentation-master
