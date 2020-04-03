@@ -18,4 +18,11 @@ In this project, Using Mask R-CNN to image segmentation
 		git clone https://github.com/Lynchez/Satellite-Image-Segmentation
 		cd Satellite-Image-Segmentation-master
 	```
-2.  python satellite.py splash --weights=/path/to/weights/file.h5 --image=URL or path to file
+2. Train your model
+	```
+		python satellite.py train --dataset=/path/to/dataset --weights=coco
+	```
+2. Test your model
+	```
+		python satellite.py splash --weights=/path/to/weights/file.h5 --image=URL or path to file
+	```
